@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
 <link rel="stylesheet" type="text/css" href="style.css">
-<body>
-<h1>All About Me</h1>
+<body{>
+<h1>{font-family:verdana;colour:BlueAll About Me}</h1>
 <img src="https://mail.google.com/mail/u/0/?ui=2&ik=71c2476eeb&view=att&th=162d1afe9b759ea1&attid=0.1&disp=safe&realattid=162d1ae42aca07cc8cb1&zw"/>
 <p>
-My name is Jayne. I am a student of Dunman High School. Currently in 1st year high school. </p>
+<h2>{font-family:verdana;colour:PurpleMy name is Jayne. I am a student of Dunman High School. Currently in 1st year high school.}</h2> </p>
 <p>
 Here’s our school website link <a href ="www.dhs.sg"> Dunman High School  </a>. </p>
 <br>
@@ -38,5 +38,6 @@ Saturday. But in the end, only 5 people from my level were selected... and I was
 of my parents's shocked faces. But so, my parents had no choice but to accept the fact that I was selected but they were happy and proud
 of me.So for the next 2 years until Primary 6, I chose four different types of sports. Badminton, Basketball, Wushu and Shooting. 
 And that's how JSA has helped in my life, shooting. Shooting had brought me to Dunman High.</p>
+<img src="http://www.asiaone.com/sites/default/files/original_images/Mar2015/20150331_ZB_Changkatprimary_PE.jpg">
 </body>
 </html>
